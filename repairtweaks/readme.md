@@ -1,4 +1,6 @@
-JrK's repair tweaks
+# JrK's repair tweaks
+
+## The Why
 
 This mod is fairly simple; I didn't like how for Anomaly weapon/outfit part repair after going through the hassle of acquiring
 parts and repairing them, you also needed toolkits that had very few uses. 
@@ -13,11 +15,11 @@ I practically removed the capability of toolkits to also function as repair kits
 of the universal or specific cleaning kit (the best type of repair kit) you _need_ do to part replacement.
 
 Finally, did some QoL changes where certain repair items have more uses, at a (nearly) 1-1 balance of higher cost. I didn't
-feel like buying 3x files every time when I could just buy one with more uses at a higher price. I still feel like files, ramrods
-etc are relatively cheap with these changes.
+feel like buying 3x files every time when I could just buy one with more uses at a higher price. I do like how the multitool works. 
+I feel with these changes files, ramrods etc are still relatively cheap.
 
-The details:
-- Increased uses for all big toolkits from 4 to 25.
-- Roughly doubled prices for all big toolkits.
+## The details
+- Increased uses for all big toolkits from 4 to 25
+- Roughly doubled prices for all big toolkits
 - Set min repair condition for big toolkits to 99%
 - Set some repair items uses from 2 to 5, increased cost (roughly) by 150%
